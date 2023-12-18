@@ -2,11 +2,12 @@
 
 [![Portfólio](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://portfolio-gabriellevieira-2e1.netlify.app/)](https://portfolio-gabriellevieira-2e1.netlify.app/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellevieira-ti/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
 
 
 ![Gabi GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielleVieira&show_icons=true&theme=cobalt)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielleVieira&langs_count=5)
 
 ### Tecnologias usadas no meu dia a dia
 <div style="display:inline_block" ><br/>
@@ -16,8 +17,12 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div> <br/>
 
-Trying to be a great Front-End Developer <3
+
+
+Entre em contato, caso tenha se interessado no meu trabalho 😊 <br/>
+Email: gabriellevieira.ti@gmail.com
+
