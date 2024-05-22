@@ -5,9 +5,7 @@
 
 
 
-![Gabi GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielleVieira&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielleVieira&langs_count=5)
 
 ### Tecnologias usadas no meu dia a dia
 <div style="display:inline_block" ><br/>
